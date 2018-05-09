@@ -1,6 +1,6 @@
 
 metadata:
-    name: "dhcp-testing"
+    name: "dhcp"
     format: "Lava-Test-Shell Test Definition 1.0"
     description: "dhcp testing"
     maintainer:
@@ -24,3 +24,4 @@ parse:
    fixupdict:
    FAIL: fail
    PASS: pass
+   #for test---------
